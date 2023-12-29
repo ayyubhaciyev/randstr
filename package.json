@@ -1,7 +1,12 @@
 {
-  "name": "randstr",
+  "name": "yp-randstr",
   "version": "1.0.0",
   "description": "A module that returns random strings",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ayyubhaciyev/yp-randstr"
+  },
+  "homepage": "https://github.com/ayyubhaciyev/yp-randstr",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
